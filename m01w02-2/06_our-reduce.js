@@ -19,7 +19,6 @@
 
 // console.log(sum);
 
-
 const ourReduce = function(arr, callback, initialValue) {
   // create a variable to hold the updated value
   let output = initialValue; // 0

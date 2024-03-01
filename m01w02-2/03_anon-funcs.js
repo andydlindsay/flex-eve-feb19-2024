@@ -21,9 +21,6 @@ runMyFunc(sayHello);
 
 runMyFunc(function(name) {
   console.log(`hello ${name}`);
-})
+});
 
-runMyFunc(name => console.log(`hello ${name}`))
-
-
-
+runMyFunc(name => console.log(`hello ${name}`));

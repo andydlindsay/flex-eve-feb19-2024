@@ -3,7 +3,7 @@
 const loopOverArray = function(arr, callback) {
   for (const value of arr) {
     // console.log(`hello ${value}`);
-    const returnVal = callback(value); // doOnEachLoop('alice')
+    callback(value); // doOnEachLoop('alice')
   }
 };
 

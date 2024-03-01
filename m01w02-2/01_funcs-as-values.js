@@ -48,4 +48,3 @@ funcs[0]();
 // console.log(myFunc2);
 
 // console.log(myFunc2.addSecretKey);
-
