@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All the Videogames</title>
+</head>
+<body>
+  <h1>All the Videogames!</h1>
+
+  <div>
+    <% for (const videogameId in videogames) { %>
+      <div>
+        <h2>Title: <%= videogames[videogameId].title %></h2>
+        <h3>Genre: <%= videogames[videogameId].genre %></h3>
+        <h3>Max Players: <%= videogames[videogameId].maxPlayers %></h3>
+      </div>
+    <% } %>
+  </div>
+</body>
+</html>
