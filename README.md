@@ -4,3 +4,4 @@
 * [M01W02 - Callbacks!](/m01w02-2)
 * [M02W05 - Promises](/m02w05-2)
 * [M03W06 - CRUD with Express](/m03w06-2)
+* [M03W07 - Security & Real World HTTP Servers](/m03w07-2)
