@@ -51,7 +51,7 @@
 ### Student Suggestion: Netflix
 We created an ERD for a fictional company:
 
-![Netflix]()
+![Netflix](https://raw.githubusercontent.com/andydlindsay/flex-eve-feb19-2024/main/m05w11-2/netflix-erd.png)
 
 ### Useful Links
 * [Database Normalization](https://en.wikipedia.org/wiki/Database_normalization)
