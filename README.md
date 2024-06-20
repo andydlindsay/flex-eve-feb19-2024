@@ -8,3 +8,4 @@
 * [M04W08 - Client Side JavaScript & jQuery](/m04w08-2)
 * [M05W11 - Database Design](/m05w11-2)
 * [M07W17 - Immutable Update Patterns](/m07w17-2)
+* [M07W18 - Data Fetching & Other Side Effects](/m07w18-2)
