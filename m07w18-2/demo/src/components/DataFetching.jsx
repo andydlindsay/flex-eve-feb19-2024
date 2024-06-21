@@ -36,9 +36,6 @@ const DataFetching = () => {
         const recipes = arrOfResponses[0].data;
         const ingredients = arrOfResponses[1].data;
 
-        console.log(recipes);
-        console.log(ingredients);
-
         setRecipes(recipes);
         setIngredients(ingredients);
       })
