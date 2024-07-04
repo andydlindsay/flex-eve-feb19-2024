@@ -9,3 +9,4 @@
 * [M05W11 - Database Design](/m05w11-2)
 * [M07W17 - Immutable Update Patterns](/m07w17-2)
 * [M07W18 - Data Fetching & Other Side Effects](/m07w18-2)
+* [M08W20 - End-to-End Testing with Cypress](/m08w20-2)
