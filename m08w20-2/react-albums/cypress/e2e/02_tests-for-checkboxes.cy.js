@@ -20,5 +20,4 @@ describe('tests for checkboxes', () => {
       .should('be.checked');
   });
 
-
 });
