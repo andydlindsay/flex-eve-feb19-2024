@@ -11,3 +11,4 @@
 * [M07W18 - Data Fetching & Other Side Effects](/m07w18-2)
 * [M08W20 - End-to-End Testing with Cypress](/m08w20-2)
 * [M08W21 - Concluding React](/m08w21-2)
+* [Advanced - Intro to TypeScript](/m09w23-2)
