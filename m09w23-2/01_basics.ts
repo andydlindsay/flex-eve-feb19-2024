@@ -11,4 +11,3 @@ nums.push(['hello world'])
 nums.push(true)
 
 const returnVal = nums.pop();
-
